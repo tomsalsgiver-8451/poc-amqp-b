@@ -1,0 +1,15 @@
+**/venv/
+**/env/
+**/*.db
+**/.idea/
+**/__pycache__
+**/.coverage
+**/coverage.xml
+**/htmlcov/
+**/junit/
+**/test-output.xml
+**/.vscode/settings.json
+**/.pytest_cache/
+**/.vscode/
+**/temp/
+
